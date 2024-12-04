@@ -18,3 +18,19 @@
 * Metarial: ```clues.jpg```
 
 ---
+
+•	Tiếp sau đó kiểm tra file từ giao thức SMB(Server Message Block), được 1 file ```Capture the Flag Kings.wav``` có vẻ như flag được giấu trong này (flaginhere.png). Xuất file về kiểm tra được kết quả đây là 1 file dạng âm thanh (soundcheck.png) kết hợp với manh mối đầu tiên tiến hành đem lên ```Audacity``` để kiểm tra tần số ở đó có gì vì đã nghe và không thu được gì.
+
+* Metarial: ```flaginhere.png```, ```soundcheck.png```
+
+---
+
+•	Khi chỉnh tần số từ 18000Hz đến 21000Hz thì ra được hình dạng của flag mà chúng ta đang tìm.
+
+* Metarial: ```flag.png```
+
+---
+
+•	Video demo quá trình giải.
+
+* Metarial : ```video```
